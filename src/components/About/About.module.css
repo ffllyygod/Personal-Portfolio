@@ -57,11 +57,11 @@
   background-size: 100% 100%;
 }
 
-.aboutItem:last-child img {
+/* .aboutItem:last-child img {
     margin-left: 10px;
-    width: 7%;
+    width: 15%;
     padding-right: 15px;
-}
+} */
 
 .aboutItem h3 {
   font-size: 25px;

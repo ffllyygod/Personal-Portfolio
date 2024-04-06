@@ -24,7 +24,7 @@ const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImgUrl("about/infinite_64.png")} alt="devops icon" />
+            <img src={getImgUrl("about/devops.png")} alt="devops icon" />
             <div className={styles.aboutItemText}>
               <h3>DevOps Engineer</h3>
               <p>I’m a DevOps engineer with experience in automating and optimizing deployment pipelines and infrastructure.</p>
