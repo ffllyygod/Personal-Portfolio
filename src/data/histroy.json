@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Frontend Developer",
+      "organisation": "Furniture Boutiq",
+      "startDate": "May, 2022",
+      "endDate": "Jul, 2022",
+      "experiences": ["Revamped frontend of company’s primary e-commerce website", "Developed REST API endpoints to fetch product data from admin portal"],
+      "imageSrc": "history/zara.png"
+    },
+    {
+      "role": "Web Development Team",
+      "organisation": "CDC IIT Jodhpur",
+      "startDate": "Jul, 2022",
+      "endDate": "Jul, 2023",
+      "experiences": ["Revamped placement cell portal used by 1200 students/year during placement season", "Formed junior support team"],
+      "imageSrc": "history/cdclogo.png"
+    },
+    {
+      "role": "Full Stack Developer",
+      "organisation": "Willings, INC",
+      "startDate": "Apr, 2023",
+      "endDate": "Jul, 2023",
+      "experiences": [
+        "Collaborated within a cross-functional frontend and backend team to enhance FullCalendar-JavaScript application for legal professionals",
+        "Helped create UI components"
+      ],
+      "imageSrc": "history/willings.png"
+    }
+  ]

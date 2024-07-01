@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Fast-React-Pizza Co.",
+    "imageSrc": "projects/pizza.png",
+    "description": "Slice into perfection with our pizza ordering website – your favorite pizzas just a click away!",
+    "skills": ["React", "Redux", "Tailwind CSS"],
+    "demo": "https://ffllyy-pizza.netlify.app/",
+    "source": "https://github.com/ffllyygod/Fast-React-Pizza-Co."
+  },
+  {
+    "title": "World Wise",
+    "imageSrc": "projects/World_wise.png",
+    "description": "Web application designed to help users document and remember the places they’ve visited.",
+    "skills": ["ReactJS", "React-Router"],
+    "demo": "https://github.com/ffllyygod/World-Wise/blob/main/README.md",
+    "source": "https://github.com/ffllyygod/World-Wise"
+  },
+  {
+    "title": "Tours API",
+    "imageSrc": "projects/Tours.png",
+    "description": "RESTful API using Node.js and MongoDB",
+    "skills": ["Node", "Express", "MongoDB"],
+    "demo": "https://github.com/ffllyygod/Tours-API",
+    "source": "https://github.com/ffllyygod/Tours-API"
+  }
+]
