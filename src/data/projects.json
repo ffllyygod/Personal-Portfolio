@@ -8,6 +8,14 @@
     "source": "https://github.com/ffllyygod/Fast-React-Pizza-Co."
   },
   {
+    "title": "kuku FM Audiobook review",
+    "imageSrc": "projects/kuku.png",
+    "description": "Full stack web app to review auidobooks",
+    "skills": ["React", "MERN"],
+    "demo": "https://drive.google.com/file/d/14k4kaWABagQ9p62NCFUJ5G_3hCq8wze2/view?usp=sharing",
+    "source": "https://github.com/ffllyygod/kukuFM"
+  },
+  {
     "title": "World Wise",
     "imageSrc": "projects/World_wise.png",
     "description": "Web application designed to help users document and remember the places they’ve visited.",
